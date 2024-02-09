@@ -1,4 +1,4 @@
-### Hi there 👋, I am Arunkarthik Periyaswamy! 😁
+### Hi there 👋, I am Arunkarthik Periyaswamy ! 😁
 
 I am a Data Scientist and software engineer proficient in Python, SQL, React, and Node, with significant industry experience, currently pursuing master's in Data Science at [State University of NewYork Buffalo](https://www.buffalo.edu/).
 
