@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Arunkarthik Periyaswamy! 😁
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=arunkarthik-periyaswamy&color=red)
 
 
 I am a Data Scientist and software engineer proficient in Python, SQL, React, and Node, with significant industry experience, currently pursuing master's in Data Science at [State University of NewYork Buffalo](https://www.buffalo.edu/).
