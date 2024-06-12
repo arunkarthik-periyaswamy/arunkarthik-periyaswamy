@@ -31,7 +31,7 @@ I am **Arunkarthik Periyaswamy** 😁, a Data Scientist and software engineer pr
 
 
 ## 📫 Contact Me
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthi-arun)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthi-arun)
 - **Email:** [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunkarthikperiyaswamy@gmail.com)
 - **Resume:** [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](link-to-your-resume)
   
