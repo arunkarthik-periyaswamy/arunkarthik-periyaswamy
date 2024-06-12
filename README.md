@@ -4,7 +4,6 @@
 <a href="https://github.com/arunkarthik-periyaswamy" target="_blank">
   <img src="https://img.shields.io/github/followers/arunkarthik-periyaswamy?label=Follow&style=social" alt="GitHub Follow">
 </a>
-Buffalo, NY | [📧 aperiyas@buffalo.edu](mailto:aperiyas@buffalo.edu) | [🔗 LinkedIn](https://linkedin.com/in/karthi-arun) | [🐱 GitHub](https://github.com/arunkarthik-periyaswamy)
 
 ### Hello there ! <a><img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" height="30px" width="30px"></a>
 
