@@ -1,4 +1,4 @@
-### Hello there ! <a><img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" height="30px" width="30px"></a>, I am Arunkarthik Periyaswamy! 😁
+### Hello there ! <a><img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" height="30px" width="30px"></a>, I am Arunkarthik Periyaswamy 😁
 ![Profile views](https://komarev.com/ghpvc/?username=arunkarthik-periyaswamy&color=red)
 <a href="https://github.com/arunkarthik-periyaswamy" target="_blank">
   <img src="https://img.shields.io/github/followers/arunkarthik-periyaswamy?label=Follow&style=social" alt="GitHub Follow">
