@@ -27,7 +27,11 @@ Languages and Tools:
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
-
+## 📫 Contact Me
+- **LinkedIn:** [Arunkarthik Periyaswamy](https://linkedin.com/in/karthi-arun)
+- **Email:** [aperiyas@buffalo.edu](mailto:arunkarthikperiyaswamy@gmail.com)
+- **Resume:** [View My Resume](link-to-your-resume)
+  
 <!--
 **arunkarthik-periyaswamy/arunkarthik-periyaswamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
