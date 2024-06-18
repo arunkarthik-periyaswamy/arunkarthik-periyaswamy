@@ -1,4 +1,4 @@
-{{< svg src="arun_gitart.svg" >}}
+<img src="arun_gitart.svg">
 
 # Arunkarthik Periyaswamy
 
