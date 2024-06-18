@@ -1,6 +1,6 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="40">
-  <h1> Arunkarthik Periyaswamy </h1>
+  <h2> Arunkarthik Periyaswamy </h2>
 <!--   <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="40"> -->
 </h2>
 
