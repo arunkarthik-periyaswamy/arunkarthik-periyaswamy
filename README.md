@@ -1,4 +1,4 @@
-# Arunkarthik Periyaswamy <img src="arun_gitart.svg" height="100px" width="100px">
+# Arunkarthik Periyaswamy <img src="arun_gitart.svg" height="70px" width="300px">
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff193a&random=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Software+Engineer&center=true" alt="Typing SVG"/></a>
