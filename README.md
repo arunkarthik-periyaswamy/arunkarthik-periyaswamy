@@ -1,6 +1,4 @@
-<img src="arun_gitart.svg">
-
-# Arunkarthik Periyaswamy
+# Arunkarthik Periyaswamy <img src="arun_gitart.svg">
 
 ![Profile views](https://komarev.com/ghpvc/?username=arunkarthik-periyaswamy&color=red)
 <a href="https://github.com/arunkarthik-periyaswamy" target="_blank">
