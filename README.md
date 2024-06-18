@@ -1,3 +1,5 @@
+{{< svg src="arun_gitart.svg" >}}
+
 # Arunkarthik Periyaswamy
 
 ![Profile views](https://komarev.com/ghpvc/?username=arunkarthik-periyaswamy&color=red)
