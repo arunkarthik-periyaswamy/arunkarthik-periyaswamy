@@ -1,4 +1,10 @@
-# Arunkarthik Periyaswamy <img src="arun_gitart.svg" height="70px" width="300px">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="40">
+  # Arunkarthik Periyaswamy 
+<!--   <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="40"> -->
+</h2>
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff193a&random=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Software+Engineer&center=true" alt="Typing SVG"/></a>
