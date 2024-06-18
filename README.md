@@ -1,8 +1,9 @@
 # Arunkarthik Periyaswamy <img src="arun_gitart.svg" height="100px" width="100px">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff193a&random=true&width=435&lines=Computer+Science+MSc+Engineer;Coding+since+11+y%2Fo;Profound+cat+lover;Mobile+%2B+AI;UI%2FUX+Design&center=true" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff193a&random=true&width=600&lines=Aspiring+Data+Scientist%2C+Machine+Learning+Engineer%2C+Software+Engineer&center=true" alt="Typing SVG"/></a>
 </p>
+
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=arunkarthik-periyaswamy&color=red)
