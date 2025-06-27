@@ -14,7 +14,7 @@
 ### Hello there ! <a><img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" height="30px" width="30px"></a>
 
 
-I am **Arunkarthik Periyaswamy** 😁, a Data Scientist and software engineer proficient in Python, SQL, React, and Node, with significant industry experience, currently pursuing master's in Data Science at [State University of NewYork Buffalo](https://www.buffalo.edu/).
+I am **Arunkarthik Periyaswamy** 😁, a software engineer proficient in Java, Python, Node.Js, SQL, React, and Machine Learning with significant industry experience, currently pursuing master's in Computer Science Data Science at [State University of NewYork Buffalo](https://www.buffalo.edu/).
 
 ## 🛠 Languages and Tools:
 <div align="left">
